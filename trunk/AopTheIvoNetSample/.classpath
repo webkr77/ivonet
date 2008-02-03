@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/common-aop/lib/asm.jar"/>
+	<classpathentry kind="lib" path="/common-aop/lib/asm-commons.jar"/>
+	<classpathentry kind="lib" path="/common-aop/lib/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="/common-aop/lib/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="/common-aop/lib/cglib-nodep.jar"/>
+	<classpathentry kind="lib" path="/common-aop/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="/common-aop/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="/common-aop/lib/spring.jar"/>
+	<classpathentry kind="lib" path="/common-aop/lib/spring-aspects.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
