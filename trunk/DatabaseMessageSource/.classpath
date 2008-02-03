@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/test"/>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="lib" path="/common-build/libraries/spring.jar" sourcepath="E:/java-dev/src/spring-src.zip"/>
+	<classpathentry kind="lib" path="/common-build/libraries/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="/common-build/libraries/commons-logging.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/common-build/libraries/spring-mock.jar"/>
+	<classpathentry kind="lib" path="/common-build/libraries/mysql-connector-java-5.0.5-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
